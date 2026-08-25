@@ -1,0 +1,300 @@
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pod1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pod2.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pod3.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pods_.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pods_1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pods1_.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pods1_1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-postgres-static_.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-postgres-static_1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-postgres-static1_.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-postgres-static1_1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-PostgresService.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-prom-service.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-prom-service1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-prom-service2.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-prometheus.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-prometheus1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-prometheus2.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-prometheus3.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-prometheus4.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-provider-aws-eks.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-provider-aws-eks1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pv-hostpath.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pv-hostpath1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pv-hostpath2_.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pv-hostpath2_1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pv-hostpath3.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pv-hostpath4.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pv-hostpath5.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pv-hostpath6_.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pv-hostpath6_1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pv-hostpath7_.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pv-hostpath7_1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pv-hostpath8_.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pv-hostpath8_1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pv-nfs.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pv-nfs1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pv-nfs2.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pv-nfs3.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pv-nfs4.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pv-nfs5.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pv-nfs6.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pv-nfs7.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pv-nfs8.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pvc-hostpath.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pvc-hostpath1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pvc-hostpath2.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pvc-hostpath3.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pvc-hostpath4.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pvc-hostpath5.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pvc-hostpath6.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pvc-hostpath7.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pvc-hostpath8.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pvc-nfs.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pvc-nfs1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pvc-nfs2.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pvc-nfs3.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pvc-nfs4.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pvc-nfs5.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pvc-nfs6.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pvc-nfs7.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pvc-nfs8.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-pvc.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-readiness-http_.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-readiness-http_1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-role.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-role1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-routes_.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-routes_1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-routes_2.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-routes_3.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-routes_4.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-routes_5.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-routes_6.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-routes_7.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-routes1_.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-routes1_1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-routes1_2.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-routes1_3.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-routes1_4.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-routes1_5.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-routes1_6.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-routes1_7.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-secret-tls.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-secret-tls1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-secret.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-secret1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-secret2.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-secret3.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-a-virtual-service.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-a-virtual-service1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-c_.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-c_1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-c_2.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-c1_.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-c1_1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-c1_2.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-cluster-ip.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-cluster-ip1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-headless.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-headless1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-monitor.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-monitor1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-monitor10.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-monitor11.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-monitor12.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-monitor13.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-monitor14.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-monitor15.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-monitor2.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-monitor3.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-monitor4.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-monitor5.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-monitor6.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-monitor7.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-monitor8.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-monitor9.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service-read.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service10.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service11.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service12.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service13.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service14.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service15.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service16.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service17.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service18.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service19.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service2.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service20.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service21.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service22.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service23.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service24.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service25.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service26.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service27.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service28.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service29.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service3.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service30.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service31.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service32.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service33.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service34.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service35.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service36.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service37.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service38.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service39.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service4.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service40.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service41.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service42.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service5.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service6.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service7.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service8.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-service9.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-serving-default-domain_.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-serving-default-domain_1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-storegateway-service.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-storegateway-service1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-storegateway-service2.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-storegateway-service3.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-streaming-sidecar.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-Taints_.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-Taints_1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4-usercustom.role.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.1-backend-service.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.1-namespace.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.1.svc-tls-nginx_.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.1.svc-tls-nginx_1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.2-data_tier_.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.2-data_tier_1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.2-frontend-service.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.2.1 nginx-deployment.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.3-app_tier_.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.3-app_tier_1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.3-memcached-service_.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.3-memcached-service_1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.3.1 daemonset.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.3.3 daemonset-updatestrategy.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.4-support_tier.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.4.4 statefulset-podmanagementpolicy_.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.4.4 statefulset-podmanagementpolicy_1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.4.6 statefulset-mongodb-cluster_.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.4.6 statefulset-mongodb-cluster_1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.5.2 hpa_.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.5.2 hpa_1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.5.2 hpa_2.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.5.2 hpa_3.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.5.2 hpa_4.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.5.2 hpa_5.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.5.2 hpa_6.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.5.2 hpa_7.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.5.2 hpa_8.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.5.2 hpa_9.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.5.2 hpa_10.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.5.2 hpa_11.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.5.2 hpa_12.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.5.2 hpa_13.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.5.2 hpa_14.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.6.1 job.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.6.2 job-dns_.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.6.2 job-dns_1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.6.2 job-indexed.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.6.2 job-template.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.6.3 job-backofflimit-per-index.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.6.3 job-max-3-fail.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.6.3 job-podfailurepolicy.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.6.4 job-timeout.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.6.4 job-ttl.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.7.2 cronjob.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress_.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress_1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress_2.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress_3.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress_4.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress_5.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress_6.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress_7.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress_8.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress_9.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress_10.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress_11.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress_12.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress_13.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress_14.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress_15.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress_16.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress_17.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress_18.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress_19.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress1_.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress1_1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress1_2.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress1_3.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress1_4.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress1_5.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress1_6.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress1_7.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress1_8.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress1_9.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress1_10.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress1_11.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress1_12.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress1_13.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress1_14.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress1_15.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress1_16.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress1_17.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress1_18.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress1_19.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.ingress2.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.namespace.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.nginx-swarmtest.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.secrets.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.svc2.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/4.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40-clusterrolebinding.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40-clusterrolebinding1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40-clusterrolebinding11.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40-clusterrolebinding12.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40-clusterrolebinding13.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40-clusterrolebinding14.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40-clusterrolebinding4.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40-clusterrolebinding5.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40-clusterrolebinding6.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40-clusterrolebinding7.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40-clusterrolebinding8.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40-clusterrolebinding9.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40-ingress.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40-mysql_.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40-mysql_1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40-mysql1_.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40-mysql1_1.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40-secrets.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40-service.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/400-deployment.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40032.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40085.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40093.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40115.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40142.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40184.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40198.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40220.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40244.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40268.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40297.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40299.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40339.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40394.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40405.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40561.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40578.yaml
+C:/projects/investigacion/scriptJsonToUvl/yamls_agrupation/tiny/40680.yaml
