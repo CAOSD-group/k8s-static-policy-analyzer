@@ -1,0 +1,8 @@
+# Large generated evaluation results
+evaluation/validation_results_kyverno_final_02.csv
+evaluation/validation_results_polaris-cli_final.csv
+analysis/evaluation/remediation_benchmark_results01_AST_Complete_V2.csv
+analysis/evaluation/validation_results_valid_jsons03_Z3.csv
+
+# Downloaded Kyverno binary
+scripts/tools_evaluation/kyverno/ignore_batchs/
